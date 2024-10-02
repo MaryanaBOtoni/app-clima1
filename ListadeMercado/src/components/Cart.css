@@ -1,0 +1,11 @@
+.cart {
+  padding: 20px;
+}
+
+.cart h1 {
+  color: #ffc107;
+}
+
+.cart p {
+  font-size: 1.2rem;
+}

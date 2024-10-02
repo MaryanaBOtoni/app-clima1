@@ -1,0 +1,22 @@
+nav ul {
+  display: flex;
+  justify-content: space-around;
+  background-color: #28a745;
+  padding: 15px;
+  list-style: none;
+}
+
+nav ul li {
+  margin: 0 20px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}

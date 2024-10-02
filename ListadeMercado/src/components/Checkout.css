@@ -1,0 +1,11 @@
+.checkout {
+  padding: 20px;
+}
+
+.checkout h1 {
+  color: #dc3545;
+}
+
+.checkout p {
+  font-size: 1.2rem;
+}
